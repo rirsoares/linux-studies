@@ -6,7 +6,7 @@ Atualizado em: 2026-06-16 Aluno: Ricardo
 
 | \# | Módulo | Status | Data Início | Data Conclusão | Observações |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| 01 | Fundamentos Sólidos | 🟡 | 2026-06-16 | — | Teoria OK, falta Lab 01 |
+| 01 | Fundamentos Sólidos | 🟢 | 2026-06-16 | 2026-06-16 | Teoria \+ Lab 01 completos |
 | 02 | Controle de Fluxo | ⬜ | — | — |  |
 | 03 | Funções e Modularização | ⬜ | — | — |  |
 | 04 | Processamento de Texto | ⬜ | — | — |  |
@@ -37,9 +37,9 @@ Atualizado em: 2026-06-16 Aluno: Ricardo
 
 ## Estatísticas
 
-- Módulos concluídos: 0/16  
-- Módulos em andamento: 1/16  
-- Labs concluídos: 0/16  
-- Sessões realizadas: 1  
-- Horas estimadas investidas: \~1h
+- Módulos concluídos: 1/16  
+- Módulos em andamento: 0/16  
+- Labs concluídos: 1/16  
+- Sessões realizadas: 2  
+- Horas estimadas investidas: \~2h
 
