@@ -1,0 +1,4 @@
+git commit -m "exercicio: modulo-01 ex01 info do sistema"
+git commit -m "exercicio: modulo-01 ex04 file check"
+git commit -m "sessao-03: modulo-02 teoria completa"
+git commit -m "lab: modulo-02 auditoria de sistema"
